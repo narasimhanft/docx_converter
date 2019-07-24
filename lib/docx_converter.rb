@@ -18,7 +18,7 @@
 require 'publishr'
 require 'kramdown'
 require 'nokogiri'
-require 'rubyzip'
+require 'rubyzip/zip'
 require 'filemagic'
 require 'RMagick'
 
